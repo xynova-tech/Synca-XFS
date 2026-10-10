@@ -15,7 +15,8 @@ Native Arm-Hand, Boundless Dexterity.
 | 发布物                                                                                      | 版本        | 说明                 |
 | ---------------------------------------------------------------------------------------- | --------- | ------------------ |
 | [Synca 上位机](https://github.com/xynova-tech/Synca-XFS/releases/tag/Studio-V1.01.001)      | v1.01.001 | 混驱臂手一体 Synca 上位机软件 |
-| [Synca SDK](https://github.com/xynova-tech/Synca-XFS/releases/tag/SDK-V0.1.1)            | v0.1.1    | 二次开发 SDK           |
+| [Synca SDK]([https://github.com/xynova-tech/Synca-XFS/releases/tag/SDK-V0.1.1](https://github.com/xynova-tech/Synca-XFS/releases/tag/SDK-v0.1.1))            | v0.1.1    | 二次开发 SDK           |
+| [Synca SDK]()            | v0.1.1    | 二次开发 SDK           |
 | [仿真资产（URDF）](https://github.com/xynova-tech/Synca-XFS/releases/tag/Arm_Hand_Urdf-V1.0.2) | v1.0.2    | 臂手 URDF 模型等仿真资产    |
 
 ## 🚀 快速上手
