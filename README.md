@@ -1,34 +1,30 @@
-# Synca-XFS
+# Synca XFS
 
-Native Arm-Hand, Boundless Dexterity.
+**Native Arm-Hand, Boundless Dexterity.**
 
-混驱臂手一体 Synca — 臂手一体 · 混驱驱动
+## Technical Documentation
 
-## 📖 技术文档
+**Go to the Documentation Center: <https://docs.xynova.com.cn/>**
 
-**→ 前往文档中心：<https://docs.xynova.com.cn/>**
+## Downloads
 
-## 📦 下载发布物
+All software is available on the [**Releases**](https://github.com/xynova-tech/Synca-XFS/releases) page and archived by release and version:
 
-所有软件均发布在 [**Releases**](https://github.com/xynova-tech/Synca-XFS/releases) 页面，按发布物分版本归档：
-
-| 发布物                                                                                      | 版本        | 说明                 |
+| Release                                                                                      | Version        | Description                 |
 | ---------------------------------------------------------------------------------------- | --------- | ------------------ |
-| [Synca 上位机](https://github.com/xynova-tech/Synca-XFS/releases/tag/Studio-V1.01.001)      | v1.01.001 | 混驱臂手一体 Synca 上位机软件 |
-| [Synca SDK](https://github.com/xynova-tech/Synca-XFS/releases/tag/SDK-v0.1.1)            | v0.1.1    | 二次开发 SDK           |
-| [仿真资产（URDF）](https://github.com/xynova-tech/Synca-XFS/releases/tag/Arm_Hand_Urdf-V1.0.2) | v1.0.2    | 臂手 URDF 模型等仿真资产    |
+| [Synca XFS Studio](https://github.com/xynova-tech/Synca-XFS/releases/tag/Studio-V1.01.001)      | V 1.01.001 | Synca XFS Studio |
+| [Synca XFS SDK](https://github.com/xynova-tech/Synca-XFS/releases/tag/SDK-v0.1.1)            | V 0.1.1    | SDK for custom development           |
+| [Simulation Assets (URDF)](https://github.com/xynova-tech/Synca-XFS/releases/tag/Arm_Hand_Urdf-V1.0.2) | V 1.0.2    | Simulation assets, including the arm-hand URDF model    |
 
-## 🚀 快速上手
+## Quick Start
 
-- **仿真**：下载仿真资产（URDF），导入 MuJoCo / Isaac Sim
-- **上位机**：下载 Synca 上位机，安装后连接 Synca 进行操作
-- **SDK**：下载 Synca SDK，解压后按接口示例进行二次开发
+- **Synca XFS Studio**: Install Synca XFS Studio, then connect to and use Synca XFS
+- **Synca XFS SDK**: Extract the software package and follow the manual
 
-## 📬 联系我们
+## Contact Us
 
-- 🌐 官网：[www.xynova.com.cn](https://www.xynova.com.cn/)
-- ✉️ 技术支持：<contact-us@xynova.tech>
+<img src="./assets/icon-website-light.svg" width="24" height="24" alt=""> **Website**: [www.xynova.com.cn](https://www.xynova.com.cn/)
 
+<img src="./assets/icon-docs-light.svg" width="24" height="24" alt=""> **Documentation**: [docs.xynova.com.cn](https://docs.xynova.com.cn/)
 
-
-
+<img src="./assets/icon-contact-light.svg" width="24" height="24" alt=""> **Technical Support**: [contact-us@xynova.tech](mailto:contact-us@xynova.tech)
