@@ -13,7 +13,7 @@ All software is available on the [**Releases**](https://github.com/xynova-tech/S
 | Release                                                                                      | Version        | Description                 |
 | ---------------------------------------------------------------------------------------- | --------- | ------------------ |
 | [Synca XFS Studio](https://github.com/xynova-tech/Synca-XFS/releases/tag/Studio-V1.01.003)      | V 1.01.003 | Synca XFS Studio |
-| [Synca XFS SDK](https://github.com/xynova-tech/Synca-XFS/releases/tag/SDK-v0.1.1)            | V 0.1.1    | SDK for custom development           |
+| [Synca XFS SDK](https://github.com/xynova-tech/Synca-XFS/releases/tag/SDK-V0.1.4)            | V 0.1.4    | SDK for custom development           |
 | [Simulation Assets (URDF)](https://github.com/xynova-tech/Synca-XFS/releases/tag/URDF-V1.0.3) | V 1.0.3    | Simulation assets, including the arm-hand URDF model    |
 
 ## Quick Start
